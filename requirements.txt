@@ -1,5 +1,12 @@
 openai
 langchain
+langchain-community
 streamlit
 python-dotenv
 ipykernel
+PyPDF2
+typing_extensions
+faiss-cpu
+tiktoken
+unstructured
+chromadb
